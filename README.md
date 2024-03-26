@@ -7,4 +7,4 @@ F_Samples_Data - sample data for train RF model
 RF_modelling   - code used for RFC model generation.
 
 Installation guide:
-- Copy the four included files to the same directory. (Installing R/RStudio may take a several minutes, if necessary.)
+Copy the four included files to the same directory. (Installing R/RStudio may take a several minutes, if necessary.)
